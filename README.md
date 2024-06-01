@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Online Hotel Booking**
+- 🔭 Recent Project on **Online Hotel Booking**
 
-- 🌱 I’m currently learning **ReactJs,NodeJs,Express etc**
+- 🌱 I’m currently learning **ReactJs,NodeJs,Express**
 
 - 📫 How to reach me **rohitghatal@gmail.com**
 
