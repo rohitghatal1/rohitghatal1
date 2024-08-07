@@ -10,14 +10,15 @@
 - 🔭 Recent Project on **Online Hotel Booking**
 
 - 🌱 I’m currently learning **ReactJs,NodeJs,Express**
-
-- 📫 See my profile at **rohitghatal.com.np**
--  How to reach me **rohitghatal@gmail.com**
+  
+- 📫 How to reach me **rohitghatal@gmail.com**
+- See my profile at **rohitghatal.com.np**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/rohitghatal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohitghatal" height="30" width="40" /></a>
 <a href="https://instagram.com/_rohit.ghatal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rohit.ghatal_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohit-ghatal-7823111b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="rohitghatal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
