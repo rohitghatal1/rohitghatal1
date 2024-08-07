@@ -11,8 +11,7 @@
 
 - 🌱 I’m currently learning **ReactJs,NodeJs,Express**
 
-- 📫 How to reach me **rohitghatal@gmail.com**
-- - 📫 See my profile at **rohitghatal.com.np**
+- 📫 See my profile at **rohitghatal.com.np**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
