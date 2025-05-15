@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on E-Commerce Website using MERN & TS<br>👯 I’m looking to collaborate on Open-source React or MERN Stack projects, especially with TypeScript.<br>🤝 I’m looking for help with Implementing advanced TypeScript patterns in MERN Stack projects.<br>🌱 I’m currently learning MERN Stack with TypeScript<br>💬 Ask me about React best practices, component-based architecture, and TypeScript in React.<br>⚡ Fun fact I love turning complex UIs into reusable components!
+🔭 I’m currently working on Chatting App (WhatsApp Clone) using Flutter, MERN & TS<br>👯 I’m looking to collaborate on Open-source React or MERN Stack projects, especially with TypeScript.<br>🤝 I’m looking for help with Implementing advanced TypeScript patterns in MERN Stack projects.<br>🌱 I’m currently learning Flutter & NodeJs (backend) with TypeScript<br>💬 Ask me about React best practices, component-based architecture, and TypeScript in React.<br>⚡ Fun fact I love turning complex UIs into reusable components!
 
 
 ## 🌐 Socials:
